@@ -15,5 +15,3 @@ bf-pixel
 senpai
 senpai-angry
 spirit
-PRINCE_FLEASHWALLOW
-PARAPPA
